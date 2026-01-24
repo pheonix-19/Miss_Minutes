@@ -1,0 +1,3 @@
+# Wiring
+
+Placeholder wiring notes.
