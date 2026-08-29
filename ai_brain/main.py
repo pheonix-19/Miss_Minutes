@@ -17,7 +17,7 @@ prompt_path = Path(__file__).parent / "ai" / "prompt.txt"
 with open(prompt_path, "r") as f:
     SYSTEM_PROMPT = f.read()
 
-speak("Hello! I am Emo Bot. How can I help you?")
+speak("Hello! I am Miss Minutes. How can I help you?")
 
 while True:
     user_text = listen()

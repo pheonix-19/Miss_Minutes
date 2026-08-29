@@ -1,0 +1,1 @@
+i have to make the project report in reserch paper style like heading sub heading and refrence of reseach paper and books etc my work is in the script folder and elite_ik package write in detail about it and also suggest some pictorail reprentation of that i can use more in dercriptive way and also little  code snippet to exaplian 

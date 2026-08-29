@@ -1,6 +1,6 @@
-# Emo Bot
+# Miss Minutes
 
-PC-side AI brain and Pico firmware scaffold for the Emo robot.
+PC-side AI brain and Pico firmware scaffold for the Miss Minutes robot.
 
 ## Quick start
 - Create a virtual env (example): `python -m venv .venv` then activate it.
